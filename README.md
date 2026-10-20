@@ -12,7 +12,7 @@ Penelitian ini memetakan pola distribusi spasial dan menganalisis tingkat ketimp
 
 | Nama File | Deskripsi / Fungsi |
 | :--- | :--- |
-| `Jurnal_Ilmiah_Analisis_Kesejahteraan_Rakyat_2.docx` | Naskah lengkap paper ilmiah berformat IEEE/Sains. |
+| `Jurnal_Ilmiah_Analisis_Kesejahteraan_Rakyat.docx` | Naskah lengkap paper ilmiah berformat IEEE/Sains. |
 | `pemetaan.ipynb` | Notebook Python untuk *preprocessing*, pembersihan data, dan agregasi data mentah ke tingkat kabupaten/kota. |
 | `hasil_analisis.ipynb` | Notebook Python untuk analisis statistik deskriptif, ekstraksi daerah ekstrem (*top/bottom 10*), dan analisis kawasan. |
 | `idn_relative_wealth_index.csv` | Dataset mentah Meta RWI Indonesia (*115.625 baris titik mikro*). |
